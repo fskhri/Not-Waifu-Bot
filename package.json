@@ -1,0 +1,29 @@
+{
+  "name": "Waifu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathyn262/waifu-bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathyn262/waifu-bot/issues"
+  },
+  "homepage": "https://github.com/kathyn262/waifu-bot#readme",
+  "description": ""
+}
