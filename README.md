@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/669404081009197077/809677462115581972/IMG_20210210_163231.png" width="128" height="128"/>
+<img src="https://images-ext-1.discordapp.net/external/2JDi89qpbygiztlnvyykpB7WkMzYvq4GmykAcd_UFBY/https/cdn.nekos.life/eroyuri/eroyuri53.jpg?width=672&height=499" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="https://github.com/fskhrijuanda"><img title="Author" src="https://img.shields.io/badge/badge/Author-Fakhri-red.svg?style=for-the-badge&logo=github"></a>
